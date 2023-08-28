@@ -20,13 +20,13 @@ A Ecommerce Website made with React.js Framework.
 Clone the project
 
 ```bash
-  git clone https://github.com/sruthi1123/E-Comm_EcoFashion.git
+  git clone https://github.com/sruthi1123/React_E-Commerce.git
 ```
 
 Go to the project directory
 
 ```bash
-  cd E-Comm_EcoFashion
+  cd React_E-Commerce
 ```
 
 Install dependencies
